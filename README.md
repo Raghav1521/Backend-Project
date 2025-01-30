@@ -1,4 +1,3 @@
-Support Vector Classification (SVC)
 
 Overview
 
